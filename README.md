@@ -14,6 +14,6 @@ i used html,css,javascript
 **to run this**
 simply using liveserver
 
-my **work station** using vscode for better codeing.
+my **work station** using vscode for better coding.
 
 thank for visiting! 
